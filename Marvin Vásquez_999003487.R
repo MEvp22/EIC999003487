@@ -1,7 +1,7 @@
 #Examen final
 
 #Marvin Estuardo Vasquez perez 999003487
-#Pregunta 11
+#Pregunta 11*******
 #variables
 media <- 173.47 
 n <-15
@@ -26,7 +26,7 @@ limsup <- media +margen
 limInf
 limsup
 
-#pregunta 13 y 15
+#pregunta 13 y 15******
 media <- 173.47
 n <-15
 desv <- 4
@@ -42,7 +42,7 @@ error
 margen <- normal*error
 margen
 
-#Prueba de hiptesis
+#Prueba de hiptesis******
 #1 h0: MU > 800
 #2 h1:  Mu < 800
 
@@ -64,7 +64,7 @@ zAlfa2
 #Validar la hip?tesis
 z0 <  zAlfa2
 
-#Hipotesis Varianza 
+#Hipotesis Varianza***** 
 ##1. h0: sigma <= 4
 #2  h1: sigma > 4
 
@@ -85,7 +85,7 @@ chi_sd2
 #7 verificación
 X2> chi_sd2
 
-#Regresión Lineal
+#Regresión Lineal********
 
 trees
 #correlacion volume-height
